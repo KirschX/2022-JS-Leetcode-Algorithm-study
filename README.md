@@ -32,3 +32,15 @@
 6) 다른 사람들의 PR을 보고 자유롭게 코드리뷰를 한다.
 7) 주의사항! 기존 폴더를 지우면 XX && 개인 폴더 내부만 수정하기
 
+
+ &nbsp;
+  &nbsp;
+   &nbsp;
+   
+
+### 1) 웹으로 파일 업로드 하는 방법
+https://waytocse.tistory.com/57
+
+### 2) 깃허브로 파일 업로드 하는 방법
+https://waytocse.tistory.com/58
+
