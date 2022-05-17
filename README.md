@@ -46,6 +46,6 @@
 ### 1) 웹으로 파일 업로드 하는 방법
 https://waytocse.tistory.com/57
 
-### 2) 깃허브로 파일 업로드 하는 방법
+### 2) 깃허브(커맨드)로 파일 업로드 하는 방법
 https://waytocse.tistory.com/58
 
