@@ -31,7 +31,7 @@
 3) 생성된 폴더에 자신의 소스코드 업로드.
 4) 커밋규칙 지키기
   -[문제출처(플랫폼)] 문제이름 / 난이도 / 걸린시간
-  - ex) git commit -m "[BOJ] Hello World / 브론즈5 / 1분" -m "https://www.acmicpc.net/problem/2557"
+  - ex) git commit -m "[BOJ] Hello World / 브론즈5 / 1분"
   
 5) 원본 저장소로 Pull Request 한다. (매주 3문제 이상, 매주 토요일 Merge)
 6) 다른 사람들의 PR을 보고 자유롭게 코드리뷰를 한다.
