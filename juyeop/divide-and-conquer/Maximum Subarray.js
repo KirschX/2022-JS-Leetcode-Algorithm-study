@@ -1,3 +1,4 @@
+// 설명할 문제
 const maxSubArray = function (nums) {
     const findMaximumCrossSubarray = (arr, left, mid, right) => {
       let leftSum = 0;
