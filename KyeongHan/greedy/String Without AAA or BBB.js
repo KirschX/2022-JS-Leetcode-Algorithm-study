@@ -1,5 +1,4 @@
 // leetcode : 984. String Without AAA or BBB
-
 /* 
     문제 설명 :
     1. 정수 a와 b를 input받는다.
