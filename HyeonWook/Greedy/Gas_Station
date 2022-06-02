@@ -1,0 +1,18 @@
+var canCompleteCircuit = function(gas, cost) {
+    let total = 0;
+    let cur = 0;
+    let start = 0;
+    
+    for(let i=0; i<gas.length; i++){
+        total += gas[i] - cost[i]
+        if(cur + gas[i] - cost[i] < 0){
+            cur = 0;
+            start = i+1; 
+        } else {
+            cur += gas[i] - cost[i];
+        }
+    }
+    
+    return total < 0 ? -1 : start
+
+};
